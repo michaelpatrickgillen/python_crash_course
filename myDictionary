@@ -1,0 +1,6 @@
+for item in [1,'cat','dog']:
+       if isinstance(item, str):
+           print "%s is a string" %item
+       else:
+           pass
+
